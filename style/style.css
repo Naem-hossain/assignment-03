@@ -1,0 +1,41 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+.btn-btn{
+    background-color: #289BDE;
+    color: white;
+}
+.btn-btn:hover{
+    background-color: #289BDE;
+    color: rgb(40, 38, 38);
+}
+.course-price{
+    color:  #289BDE;
+    font-size: 18px;
+}
+.optional-section {
+  background-color: #f4fafd;
+}
+.option-head-text {
+  font-weight: 600;
+  font-size: 45px;
+  line-height: 60px;
+}
+
+.join-section {
+  background-color: #289bde;
+  color: white;
+}
+.join-btn {
+  color: #289bde;
+  background-color: white;
+}
+/* .join-btn:hover{ 
+    color: white;
+    background-color: ;
+} */
+/* footer icon style  */
+.icon {
+  color: white;
+  margin: 20px 10px;
+}
